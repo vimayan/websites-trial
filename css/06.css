@@ -1,0 +1,33 @@
+.input  {margin-bottom:15px;}
+.sign{
+    background-color: rgb(63, 63, 212);
+    color: white;
+    width: 330px;
+    height: 50px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    border-style: none;
+}
+.f::placeholder{
+    font-family: "sans-serif";
+}
+.f,
+.s
+{
+    border-radius: 5px;
+    height: 50px;
+    width: 150px;
+    font-size: 18px;
+    padding-left: 8px;
+    margin-bottom: 8px;
+}
+.e{
+    border-radius: 5px;
+    height: 50px;
+    width: 320px;
+    font-size: 18px;
+    padding-left: 8px;
+    display:block ;
+    margin-bottom: 8px;
+}
